@@ -57,5 +57,5 @@ const s = "(]";
 
 const result = isValid(s);
 
-// true
+// false
 console.log(result);
